@@ -22,19 +22,6 @@ Jest • Cypress • CI/CD • Docker
 
 ---
 
-## 🚀 Projetos em Destaque
-
-🔹 **Sistema de Eventos**  
-Aplicação web simulando painel de organizador, com foco em arquitetura de componentes, organização estrutural e evolução para backend próprio.
-
-🔹 **Frontend Challenge**  
-Projeto focado em desenvolvimento de interface e testes automatizados, priorizando boas práticas e qualidade de código.
-
-🔹 **TOPSIS-Sort-C-SAD**  
-Implementação do algoritmo TOPSIS em Python, publicada como biblioteca no PyPI, demonstrando capacidade analítica e base teórica sólida.
-
----
-
 ## 📫 Contato
 
 📧 gmdomingosn@gmail.com  
